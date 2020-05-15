@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/note-manager-context-API-Hooks2/static/css/main.63a37260.chunk.css",
-    "main.js": "/note-manager-context-API-Hooks2/static/js/main.bc502788.chunk.js",
-    "main.js.map": "/note-manager-context-API-Hooks2/static/js/main.bc502788.chunk.js.map",
-    "runtime-main.js": "/note-manager-context-API-Hooks2/static/js/runtime-main.6d9c166f.js",
-    "runtime-main.js.map": "/note-manager-context-API-Hooks2/static/js/runtime-main.6d9c166f.js.map",
-    "static/js/2.a733ff70.chunk.js": "/note-manager-context-API-Hooks2/static/js/2.a733ff70.chunk.js",
-    "static/js/2.a733ff70.chunk.js.map": "/note-manager-context-API-Hooks2/static/js/2.a733ff70.chunk.js.map",
-    "index.html": "/note-manager-context-API-Hooks2/index.html",
-    "precache-manifest.cae370cde8edadf19f7f064fd795c56c.js": "/note-manager-context-API-Hooks2/precache-manifest.cae370cde8edadf19f7f064fd795c56c.js",
-    "service-worker.js": "/note-manager-context-API-Hooks2/service-worker.js",
-    "static/css/main.63a37260.chunk.css.map": "/note-manager-context-API-Hooks2/static/css/main.63a37260.chunk.css.map",
-    "static/js/2.a733ff70.chunk.js.LICENSE.txt": "/note-manager-context-API-Hooks2/static/js/2.a733ff70.chunk.js.LICENSE.txt"
+    "main.css": "/note-manager-context-API-Hooks/static/css/main.63a37260.chunk.css",
+    "main.js": "/note-manager-context-API-Hooks/static/js/main.bc502788.chunk.js",
+    "main.js.map": "/note-manager-context-API-Hooks/static/js/main.bc502788.chunk.js.map",
+    "runtime-main.js": "/note-manager-context-API-Hooks/static/js/runtime-main.910d05e7.js",
+    "runtime-main.js.map": "/note-manager-context-API-Hooks/static/js/runtime-main.910d05e7.js.map",
+    "static/js/2.a733ff70.chunk.js": "/note-manager-context-API-Hooks/static/js/2.a733ff70.chunk.js",
+    "static/js/2.a733ff70.chunk.js.map": "/note-manager-context-API-Hooks/static/js/2.a733ff70.chunk.js.map",
+    "index.html": "/note-manager-context-API-Hooks/index.html",
+    "precache-manifest.db29171baab7c7c1fef4279b88d42b5e.js": "/note-manager-context-API-Hooks/precache-manifest.db29171baab7c7c1fef4279b88d42b5e.js",
+    "service-worker.js": "/note-manager-context-API-Hooks/service-worker.js",
+    "static/css/main.63a37260.chunk.css.map": "/note-manager-context-API-Hooks/static/css/main.63a37260.chunk.css.map",
+    "static/js/2.a733ff70.chunk.js.LICENSE.txt": "/note-manager-context-API-Hooks/static/js/2.a733ff70.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d9c166f.js",
+    "static/js/runtime-main.910d05e7.js",
     "static/js/2.a733ff70.chunk.js",
     "static/css/main.63a37260.chunk.css",
     "static/js/main.bc502788.chunk.js"
